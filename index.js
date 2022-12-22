@@ -65,3 +65,4 @@ function newCard(){
         console.log("out of the game")
     }
 }
+
